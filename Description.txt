@@ -1,0 +1,13 @@
+The dataset contains data of Billionaires around the world, which was curated by Forbes. This dataset is sourced from Kaggle and contains information about global billionaires in 2021 including:
+1.	Names
+2.	Net Worth 
+3.	Country 
+4.	Source 
+5.	Rank
+6.	Age
+7.	Industry
+Perform Data Analysis and Create Visualisation with given data. You can perform analysis to find:
+-	Domain with the greatest number of Billionaires
+-	Top 5 industries with the most Billionaires
+-	Top 5 Countries with the greatest number of Billionaires
+Perform brainstorming on analysing data to extract more possible information through given data.
